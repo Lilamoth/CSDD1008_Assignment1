@@ -1,4 +1,5 @@
 Student names and IDs:
+Amit Ghimire: 500224630
 Ahmad Raja: 500229720
 Asim Shaikh: 500234706
 Shubham Gurung: 500234576
