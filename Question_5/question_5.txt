@@ -1,0 +1,39 @@
+Task 5: Setting up the JIRA Project (Sprint Creation)
+------------------------------------
+
+Sample Persona: 
+----------------
+Name: Raj Kumar Bhandari
+Role: Site Inspector
+Description: Raj has 12 years of experience as a Site inspector and Auditor.
+He uses several standalone tools to schedule site visits, take notes and generate reports.
+He is looking for a tool that would make his work easier by helping him easily document his
+findings, attach multimedia files like photos and videos, set the reminders for any follow-ups,
+and share the notes with his team. 
+
+Scenarios and User Stories: 
+----------------------------
+1. As a Site Inspector, I want a tool like Evernote integrated with my auditing software so I
+can take detailed notes during my inspections, attach pictures and videos and present my findings
+in an organized manner.
+
+2. As a Site Inspector, I want to use Evernote to manage my appointments and follow-ups, set
+reminders, and keep track of the deadlines.
+
+Project Backlogs:
+-----------------
+
+1. Research and prepare a initial framework to integrate Evernote with the Audit Software.
+2. Design and create user interface for taking notes in Evernote from within the audit software.
+3. Implement the functionality to create and edit Evernote notes.
+4. Implement the functionality to attach multimedia files.
+5. Integrate Evernote's calendar features for reminders and scheduling.
+6. Conduct extensive testing to make sure that the software is bug free after integration.
+7. Prepare documentation, manuals and training materials to teach users how to use the new features of the audit software.
+
+# The first 3 backlog items in the above list will be used to create the first sprint in JIRA.
+# A Screenshot of the JIRA Interface showing the created Sprint-1 with above mentioned backlogs
+is uploaded alongside this text file.
+
+
+
